@@ -1,0 +1,9 @@
+{
+	"name": "geetaasiaadf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e850f0b4-71d7-4afe-9abb-5d0ac5c1ca1f",
+		"tenantId": "c7a90fb4-c4f9-41e2-a38c-26444432e3c3"
+	}
+}
